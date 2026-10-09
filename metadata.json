@@ -1,0 +1,6 @@
+{
+  "name": "PLM 离散制造设计系统与UI规范",
+  "description": "基于离散制造PLM系统标准的UI风格设计指南、设计变量规范与可交互全套组件库",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
